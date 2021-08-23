@@ -21,7 +21,7 @@
 >개발 기간: 2021.05.03 ~ 2021.06.07  
 >  
 >기술 스택:  
->Java 8 / Spring / Maven / SQL(Oracle) / HTML / CSS / Javascript / JQuery
+>Java 8 / Spring / JSP / SQL(Oracle) / HTML5 / CSS3 / JavaScript / JQuery
 >  
 >[프로젝트 상세 설명](https://github.com/PrimarchAn/SpringProject01) 참고
 
