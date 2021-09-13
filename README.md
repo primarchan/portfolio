@@ -16,7 +16,7 @@
 </br>
 
 ## :pushpin: Projects
-### 1. [어드레감디](https://github.com/PrimarchAn/SpringProject01)
+### 1. [SpringProject01_어드레감디(Adregamdi)](https://github.com/PrimarchAn/SpringProject01)
 >제주도 여행 커뮤니티 서비스 (팀 프로젝트)  
 >
 >개발 기간 : 2021.05.03 ~ 2021.06.07  
