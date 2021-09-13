@@ -26,7 +26,7 @@
 >[프로젝트 상세 설명](https://github.com/PrimarchAn/SpringProject01) 참고
 
 ### 2. [SpringProject02](https://github.com/PrimarchAn/SpringProject02)
->Spring Framework 기반 웹 페이지 제작 (개인 프로젝트)  
+>Spring Framework 기반 웹  제작 (개인 프로젝트)  
 >
 >개발 기간 : 2021.08.01 ~ 
 >  
