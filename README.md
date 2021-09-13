@@ -18,20 +18,18 @@
 ## :pushpin: Projects
 ### 1. [어드레감디](https://github.com/PrimarchAn/SpringProject01)
 >제주도 여행 커뮤니티 서비스 (팀 프로젝트)  
->개발 기간: 2021.05.03 ~ 2021.06.07  
+>
+>개발 기간 : 2021.05.03 ~ 2021.06.07  
 >  
->기술 스택:  
->Java 8 / Spring / JSP / SQL(Oracle) / HTML5 / CSS3 / JavaScript / JQuery
+>기술 스택 : Java 8 / Spring / JSP / SQL(Oracle) / HTML5 / CSS3 / JavaScript / JQuery
 >  
 >[프로젝트 상세 설명](https://github.com/PrimarchAn/SpringProject01) 참고
 
 ### 2. [SpringProject02](https://github.com/PrimarchAn/SpringProject02)
 >Spring Framework 기반 웹 페이지 제작 (개인 프로젝트)  
->개발 기간: 2021.08.01 ~ 
+>
+>개발 기간 : 2021.08.01 ~ 
 >  
->기술 스택:  
->Java 8 / Spring / JSP / SQL(Oracle) / HTML5 / CSS3 / JavaScript / JQuery
+>기술 스택 : Java 8 / Spring / JSP / SQL(Oracle) / HTML5 / CSS3 / JavaScript / JQuery
 >  
 >[프로젝트 상세 설명](https://github.com/PrimarchAn/SpringProject02) 참고
-
----
