@@ -9,9 +9,9 @@
 </br>
 
 ## :pushpin: Contact
-- 이메일: boltcarrier@naver.com
-- 블로그: https://taesancoding.tistory.com/
-- 깃헙: https://github.com/PrimarchAn
+- 이메일 : boltcarrier@naver.com
+- 블로그 : https://taesancoding.tistory.com/
+- GitHub : https://github.com/PrimarchAn
 
 </br>
 
@@ -24,5 +24,14 @@
 >Java 8 / Spring / JSP / SQL(Oracle) / HTML5 / CSS3 / JavaScript / JQuery
 >  
 >[프로젝트 상세 설명](https://github.com/PrimarchAn/SpringProject01) 참고
+
+### 2. [SpringProject02](https://github.com/PrimarchAn/SpringProject02)
+>Spring Framework 기반 웹 페이지 제작 (개인 프로젝트)  
+>개발 기간: 2021.08.01 ~ 
+>  
+>기술 스택:  
+>Java 8 / Spring / JSP / SQL(Oracle) / HTML5 / CSS3 / JavaScript / JQuery
+>  
+>[프로젝트 상세 설명](https://github.com/PrimarchAn/SpringProject02) 참고
 
 ---
