@@ -9,8 +9,9 @@
 </br>
 
 ## :pushpin: Contact
-- 이메일 : primarchan@gmail.com
-- 블로그 : https://taesancoding.tistory.com
+- 이메일(개인) : primarchan@gmail.com
+- 이메일(회사) : primarchan@yanolja.com
+- 기술 블로그 : https://taesancoding.tistory.com
 - GitHub : https://github.com/primarchan
 
 </br>
