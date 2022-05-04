@@ -9,9 +9,9 @@
 </br>
 
 ## :pushpin: Contact
-- 이메일 : boltcarrier@naver.com
-- 블로그 : https://taesancoding.tistory.com/
-- GitHub : https://github.com/PrimarchAn
+- 이메일 : primarchan@gmail.com
+- 블로그 : https://taesancoding.tistory.com
+- GitHub : https://github.com/primarchan
 
 </br>
 
