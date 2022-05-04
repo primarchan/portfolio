@@ -27,10 +27,19 @@
 >[프로젝트 상세 설명](https://github.com/PrimarchAn/SpringProject01) 참고
 
 ### 2. [SpringProject02](https://github.com/PrimarchAn/SpringProject02)
->Spring Framework 기반 웹  제작 (개인 프로젝트)  
+>Spring Framework 기반 웹 애플리케이션 제작 (개인 프로젝트)  
 >
 >개발 기간 : 2021.08.01 ~ 
 >  
 >기술 스택 : Java 8 / Spring / JSP / SQL(Oracle) / HTML5 / CSS3 / JavaScript / JQuery
+>  
+>[프로젝트 상세 설명](https://github.com/PrimarchAn/SpringProject02) 참고
+
+### 3. [vue-todo](https://github.com/PrimarchAn/SpringProject02)
+> 할 일 관리 모바일 애플리케이션(개인 프로젝트)  
+>
+>개발 기간 : 2021.08.01 ~ 
+>  
+>기술 스택 : Vue.js / HTML5 / CSS3 / JavaScript
 >  
 >[프로젝트 상세 설명](https://github.com/PrimarchAn/SpringProject02) 참고
